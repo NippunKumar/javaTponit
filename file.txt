@@ -1,0 +1,5 @@
+Java provides a standard way of reading from and writing to files. Traditionally the java.io package was used, but in modern Java applications you use the java.nio.file API.
+
+Java will read all input as a stream of bytes. The InputStream class is the superclass of all classes representing an input stream of bytes.
+
+
